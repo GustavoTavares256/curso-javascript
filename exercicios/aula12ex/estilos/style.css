@@ -32,3 +32,15 @@ footer {
 
 }
 
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+img {
+   width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  transition: 0.3s; /* animação suave */
+  
+  }

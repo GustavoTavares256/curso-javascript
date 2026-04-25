@@ -6,7 +6,7 @@
 }
 
 body {
-   background: blueviolet;
+   background: rgb(68, 118, 193);
 }
 
 header {
@@ -26,7 +26,7 @@ section {
 
 footer {
     color: white;
-    text-align: center;
+text-align: center;
     font-style: italic;
     text-decoration: none;
 
